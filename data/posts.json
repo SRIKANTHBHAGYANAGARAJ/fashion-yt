@@ -1,0 +1,262 @@
+[
+  {
+    "slug": "how-a-seam-should-feel",
+    "title": "How a seam should feel",
+    "excerpt": "If you can feel the seam more than the cloth, the garment is already arguing with you.",
+    "category": "Craft",
+    "author": "Mara Ellison",
+    "date": "2026-02-11",
+    "readTime": "6 min",
+    "image": "/atelier-vale/blog/seam.webp",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "A good seam disappears into the cloth. You notice it only when you look for it: even stitches, a clean fold, no ridge against the skin."
+      },
+      {
+        "type": "h2",
+        "text": "Felled, not faked"
+      },
+      {
+        "type": "p",
+        "text": "On a work shirt we fell the side seam so the raw edge never touches you. It takes more cloth and more time. It also lasts."
+      },
+      {
+        "type": "quote",
+        "text": "Repair starts at the seam. If the stitch is honest, a tailor can open it and close it again."
+      },
+      {
+        "type": "h3",
+        "text": "What to run a thumb along"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Shoulder: it should sit, not bite",
+          "Side: no twist after a wash",
+          "Hem: even, not waving"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "washing-wool-without-fear",
+    "title": "Washing wool without fear",
+    "excerpt": "Wool is not porcelain. It is hair. Treat it like hair and it will last.",
+    "category": "Care",
+    "author": "Jonah Peck",
+    "date": "2026-03-15",
+    "readTime": "5 min",
+    "image": "/atelier-vale/blog/wool.webp",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Most wool dies in a hot spin, not in the rain. Cold water, a little soap, a towel, a flat table. That is the whole ritual."
+      },
+      {
+        "type": "h2",
+        "text": "Dry it flat"
+      },
+      {
+        "type": "p",
+        "text": "Hanging a wet pullover grows the body and shrinks the sleeve. Lay it out. Shape the shoulder with your hands. Walk away."
+      },
+      {
+        "type": "h3",
+        "text": "When to dry clean"
+      },
+      {
+        "type": "p",
+        "text": "Tailored trousers and the overcoat. Not the merino mockneck. Not the scarf. Save the solvent for structure."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Hand wash knits",
+          "Brush coats",
+          "Steam creases, do not iron wool dry"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "a-note-on-fit-and-ease",
+    "title": "A note on fit and ease",
+    "excerpt": "Ease is the air between you and the cloth. Too little and you cannot sit. Too much and the garment has no job.",
+    "category": "Fit",
+    "author": "Priya Shah",
+    "date": "2026-04-02",
+    "readTime": "7 min",
+    "image": "/atelier-vale/blog/fit.webp",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "We cut some things close — the mockneck, the column — and some things with room. The oversized sweatshirt is not a mistake. It is a jacket you can wash."
+      },
+      {
+        "type": "h2",
+        "text": "Size for the job"
+      },
+      {
+        "type": "p",
+        "text": "If you layer a pullover under the overcoat, take the coat in your usual size. Oak & Thread cut it for that. If you wear the denim jacket over a heavy knit, size up."
+      },
+      {
+        "type": "quote",
+        "text": "Fit is not a number. It is whether you can raise an arm without the hem climbing."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Raise both arms",
+          "Sit down",
+          "Check the back rise, not only the waist"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "linen-in-a-city-summer",
+    "title": "Linen in a city summer",
+    "excerpt": "Linen wrinkles. That is the cloth telling the truth about heat. Stop chasing a crease that will return in an hour.",
+    "category": "Season",
+    "author": "Elena Voss",
+    "date": "2026-05-20",
+    "readTime": "4 min",
+    "image": "/atelier-vale/blog/linen.webp",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "We wash the camp shirt so the first wrinkle is already there. You are not failing the garment when it creases on the train."
+      },
+      {
+        "type": "h2",
+        "text": "Hang it, do not fight it"
+      },
+      {
+        "type": "p",
+        "text": "A steam at the collar is enough. The body can stay soft. Ivory linen is a little sheer; Sage is the safer day shirt."
+      },
+      {
+        "type": "h3",
+        "text": "What we wear with it"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The tailored trouser in sand",
+          "The court shoe in bone",
+          "Nothing else that tries to be sharp"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "why-we-repair-first",
+    "title": "Why we repair first",
+    "excerpt": "Atelier Vale is a shop, not a landfill. A broken stitch is a morning. A new coat is a season of cloth.",
+    "category": "Stores",
+    "author": "Ruth Calder",
+    "date": "2026-06-08",
+    "readTime": "8 min",
+    "image": "/atelier-vale/blog/repair.webp",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Broadway keeps a machine in the back. Valencia has a cobbler two doors down for the derby. We would rather take a hem up than sell you a second pair of trousers you do not need."
+      },
+      {
+        "type": "h2",
+        "text": "What we will do"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Restitch a popped seam on house garments",
+          "Point you to a cobbler for the derby",
+          "Replace a buckle if ours fails"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "What we will not do"
+      },
+      {
+        "type": "p",
+        "text": "We will not pretend a glued sole is a feature. We will not print a fake live-visitor count on the product page. The stock number is the stock number."
+      },
+      {
+        "type": "quote",
+        "text": "Clothes that stay sharp are clothes that can be opened and closed again."
+      }
+    ]
+  },
+  {
+    "slug": "layering-without-bulk",
+    "title": "Layering without bulk",
+    "excerpt": "The trick is one thin warm thing and one structured thing. Not three fleeces.",
+    "category": "Season",
+    "author": "Theo March",
+    "date": "2026-01-22",
+    "readTime": "5 min",
+    "image": "/atelier-vale/blog/layers.webp",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Merino mockneck, then the work shirt, then the overcoat. That is a January commute. The pullover replaces the shirt, it does not sit under it."
+      },
+      {
+        "type": "h2",
+        "text": "Collars"
+      },
+      {
+        "type": "p",
+        "text": "Two collars is enough. The mockneck is a collar. The shirt is a collar. Leave the coat open if you want air."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Thin knit against the skin",
+          "Cloth with a seam in the middle",
+          "Coat with an unlined back"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "denim-that-is-allowed-to-fade",
+    "title": "Denim that is allowed to fade",
+    "excerpt": "A rinse is not a finish line. It is a starting colour. The rest is your year.",
+    "category": "Craft",
+    "author": "Samir Cole",
+    "date": "2026-04-18",
+    "readTime": "6 min",
+    "image": "/atelier-vale/blog/denim.webp",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Oak & Thread rinse the slim jacket once so you do not spend six months looking like a raw-denim poster. After that, the creases are yours."
+      },
+      {
+        "type": "h2",
+        "text": "Wash rare"
+      },
+      {
+        "type": "p",
+        "text": "Cold, inside-out, hang. Spot-clean the cuffs. The Sand colour will lighten at the elbow. That is not damage."
+      },
+      {
+        "type": "quote",
+        "text": "If you want it to stay dark, buy Ink and wash it even less."
+      },
+      {
+        "type": "h3",
+        "text": "Kids denim"
+      },
+      {
+        "type": "p",
+        "text": "The kids pair has a doubled knee because slides are not a style choice. Wash those more. They earn it."
+      }
+    ]
+  }
+]

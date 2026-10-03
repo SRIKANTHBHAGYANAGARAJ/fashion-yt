@@ -1,0 +1,4246 @@
+{
+  "categories": [
+    {
+      "id": "women",
+      "name": "Women",
+      "slug": "women",
+      "description": "Cuts for work, weekend, and the hour between.",
+      "image": "/atelier-vale/cats/women.webp"
+    },
+    {
+      "id": "men",
+      "name": "Men",
+      "slug": "men",
+      "description": "Shirts, trousers, denim, and cloth that takes a beating.",
+      "image": "/atelier-vale/cats/men.webp"
+    },
+    {
+      "id": "kids",
+      "name": "Kids",
+      "slug": "kids",
+      "description": "The same mills, smaller patterns, tougher knees.",
+      "image": "/atelier-vale/cats/kids.webp"
+    },
+    {
+      "id": "curve",
+      "name": "Curve",
+      "slug": "curve",
+      "description": "Graded on a curve block, not scaled up from a sample.",
+      "image": "/atelier-vale/cats/curve.webp"
+    },
+    {
+      "id": "dresses",
+      "name": "Dresses",
+      "slug": "dresses",
+      "description": "Columns, bias slips, and knits you can sit in.",
+      "image": "/atelier-vale/cats/dresses.webp"
+    },
+    {
+      "id": "fall-winter",
+      "name": "Fall & Winter",
+      "slug": "fall-winter",
+      "description": "Wool, boiled cloth, and layers that stay sharp in rain.",
+      "image": "/atelier-vale/cats/fall-winter.webp"
+    },
+    {
+      "id": "shoes",
+      "name": "Shoes",
+      "slug": "shoes",
+      "description": "Derbies you can resole and court shoes without a logo.",
+      "image": "/atelier-vale/cats/shoes.webp"
+    },
+    {
+      "id": "bags",
+      "name": "Bags",
+      "slug": "bags",
+      "description": "Leather that is meant to mark. Totes and compact straps.",
+      "image": "/atelier-vale/cats/bags.webp"
+    },
+    {
+      "id": "accessories",
+      "name": "Accessories",
+      "slug": "accessories",
+      "description": "Scarves, belts, and a beanie that stays on a bike.",
+      "image": "/atelier-vale/cats/accessories.webp"
+    },
+    {
+      "id": "activewear",
+      "name": "Activewear",
+      "slug": "activewear",
+      "description": "Studio layers with seams that do not roll.",
+      "image": "/atelier-vale/cats/activewear.webp"
+    }
+  ],
+  "products": [
+    {
+      "id": "p-01",
+      "slug": "harborline-oversized-graphic-sweatshirt",
+      "name": "Harborline Oversized Graphic Sweatshirt",
+      "description": "Cut from mid-weight loopback cotton that keeps its shape through a hundred washes. Dropped shoulder, a quiet Vale mark at the chest, rib that does not twist.",
+      "category": "women",
+      "brand": "Harborline",
+      "sku": "AV-HL-001",
+      "price": 128,
+      "compareAtPrice": 184,
+      "image": "/atelier-vale/products/harborline-oversized-graphic-sweatshirt-1.webp",
+      "hoverImage": "/atelier-vale/products/harborline-oversized-graphic-sweatshirt-2.webp",
+      "images": [
+        "/atelier-vale/products/harborline-oversized-graphic-sweatshirt-1.webp",
+        "/atelier-vale/products/harborline-oversized-graphic-sweatshirt-2.webp",
+        "/atelier-vale/products/harborline-oversized-graphic-sweatshirt-3.webp",
+        "/atelier-vale/products/harborline-oversized-graphic-sweatshirt-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Bone",
+          "colorHex": "#E8E0D4",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/harborline-oversized-graphic-sweatshirt-1.webp"
+        },
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/harborline-oversized-graphic-sweatshirt-2.webp"
+        }
+      ],
+      "materials": [
+        "Cotton",
+        "SoftBlend"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": true,
+      "published": true,
+      "inStock": true,
+      "stockQty": 80,
+      "badge": "new",
+      "features": [
+        "Dropped shoulder, room through the body",
+        "Rib cuff and hem that recover",
+        "Printed with water-based ink"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "420 gsm loopback cotton"
+        },
+        {
+          "label": "Fit",
+          "value": "Oversized"
+        },
+        {
+          "label": "Weight",
+          "value": "Mid-weight"
+        },
+        {
+          "label": "Care",
+          "value": "Wash cold, hang dry"
+        },
+        {
+          "label": "Origin",
+          "value": "Cut and sewn in Portugal"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-HL-001"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Mara Ellison",
+          "rating": 5,
+          "body": "Weight is honest. Sleeve length is right with the cuff pushed once.",
+          "date": "2026-03-12"
+        },
+        {
+          "author": "Jonah Peck",
+          "rating": 4,
+          "body": "Bought Bone. The print cracked zero after six washes.",
+          "date": "2026-04-02"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Does it shrink in the dryer?",
+          "answer": "A little if tumbled hot. We wash ours cold and hang it."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "A sweatshirt that sits like a jacket",
+      "storyBody": "Harborline built this for the in-between hour: studio to street. The fleece is brushed once, not twice, so it does not pill against a wool coat."
+    },
+    {
+      "id": "p-02",
+      "slug": "northloom-cropped-tiger-tee",
+      "name": "Northloom Cropped Tiger Tee",
+      "description": "A cropped box tee in compact jersey. The tiger is drawn, not stock clip-art — one plate, two colours, no plastisol shine.",
+      "category": "women",
+      "brand": "Northloom",
+      "sku": "AV-NL-014",
+      "price": 68,
+      "image": "/atelier-vale/products/northloom-cropped-tiger-tee-1.webp",
+      "hoverImage": "/atelier-vale/products/northloom-cropped-tiger-tee-2.webp",
+      "images": [
+        "/atelier-vale/products/northloom-cropped-tiger-tee-1.webp",
+        "/atelier-vale/products/northloom-cropped-tiger-tee-2.webp",
+        "/atelier-vale/products/northloom-cropped-tiger-tee-3.webp",
+        "/atelier-vale/products/northloom-cropped-tiger-tee-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Oxblood",
+          "colorHex": "#6B1C2A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 10
+            },
+            {
+              "size": "S",
+              "qty": 10
+            },
+            {
+              "size": "M",
+              "qty": 10
+            },
+            {
+              "size": "L",
+              "qty": 10
+            },
+            {
+              "size": "XL",
+              "qty": 10
+            }
+          ],
+          "image": "/atelier-vale/products/northloom-cropped-tiger-tee-1.webp"
+        },
+        {
+          "color": "Ivory",
+          "colorHex": "#F3EEE6",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 10
+            },
+            {
+              "size": "S",
+              "qty": 10
+            },
+            {
+              "size": "M",
+              "qty": 10
+            },
+            {
+              "size": "L",
+              "qty": 10
+            },
+            {
+              "size": "XL",
+              "qty": 10
+            }
+          ],
+          "image": "/atelier-vale/products/northloom-cropped-tiger-tee-2.webp"
+        }
+      ],
+      "materials": [
+        "Cotton"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 100,
+      "badge": "hot",
+      "features": [
+        "Boxy crop that hits above the hip",
+        "Set-in sleeve",
+        "Side seam stays true"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "180 gsm compact cotton jersey"
+        },
+        {
+          "label": "Fit",
+          "value": "Cropped box"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Wash inside-out, cold"
+        },
+        {
+          "label": "Origin",
+          "value": "Knitted in Peru"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-NL-014"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Priya Shah",
+          "rating": 5,
+          "body": "Crop is exact. Not a belly shirt, not a tunic.",
+          "date": "2026-02-18"
+        },
+        {
+          "author": "Elena Voss",
+          "rating": 4,
+          "body": "Oxblood reads deeper in person. Soft on first wear.",
+          "date": "2026-05-09"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Will it stretch out?",
+          "answer": "The jersey is compact. It recovers after a wash."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "Short on purpose",
+      "storyBody": "Northloom cuts this to sit with high-rise denim. The hem is bound, not folded, so it does not flip."
+    },
+    {
+      "id": "p-03",
+      "slug": "dawncut-sleeveless-knit-crop",
+      "name": "Dawncut Sleeveless Knit Crop",
+      "description": "A fine-gauge sleeveless crop with a square neck. Cool against the skin, neat under a shirt left open.",
+      "category": "women",
+      "brand": "Dawncut",
+      "sku": "AV-DC-022",
+      "price": 88,
+      "image": "/atelier-vale/products/dawncut-sleeveless-knit-crop-1.webp",
+      "hoverImage": "/atelier-vale/products/dawncut-sleeveless-knit-crop-2.webp",
+      "images": [
+        "/atelier-vale/products/dawncut-sleeveless-knit-crop-1.webp",
+        "/atelier-vale/products/dawncut-sleeveless-knit-crop-2.webp",
+        "/atelier-vale/products/dawncut-sleeveless-knit-crop-3.webp",
+        "/atelier-vale/products/dawncut-sleeveless-knit-crop-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Sage",
+          "colorHex": "#8A9A7B",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/dawncut-sleeveless-knit-crop-1.webp"
+        },
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/dawncut-sleeveless-knit-crop-2.webp"
+        }
+      ],
+      "materials": [
+        "Cotton",
+        "Fine wool"
+      ],
+      "rating": 5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 80,
+      "badge": "new",
+      "features": [
+        "Square neck that holds",
+        "Fine rib that does not see-through",
+        "Cropped to the waist"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Cotton-wool fine gauge"
+        },
+        {
+          "label": "Fit",
+          "value": "Close, cropped"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Hand wash, dry flat"
+        },
+        {
+          "label": "Origin",
+          "value": "Knitted in Scotland"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-DC-022"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Hana Idris",
+          "rating": 5,
+          "body": "Armhole is modest. I wear it without a strap showing.",
+          "date": "2026-06-01"
+        },
+        {
+          "author": "Claire Bennet",
+          "rating": 5,
+          "body": "Sage is the colour of dry grass, not mint.",
+          "date": "2026-06-20"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Is it itchy?",
+          "answer": "No. The wool is combed and sits inside a cotton face."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "Knit, not jersey",
+      "storyBody": "Dawncut used a cotton-wool mix so the crop keeps its edge in heat. No cling, no sag at the armhole."
+    },
+    {
+      "id": "p-04",
+      "slug": "silkway-drape-blouse",
+      "name": "Silkway Drape Blouse",
+      "description": "A long-sleeve blouse in silk-cotton with a set collar and a drape that falls off the shoulder seam, not the chest.",
+      "category": "women",
+      "brand": "Silkway",
+      "sku": "AV-SW-031",
+      "price": 148,
+      "image": "/atelier-vale/products/silkway-drape-blouse-1.webp",
+      "hoverImage": "/atelier-vale/products/silkway-drape-blouse-2.webp",
+      "images": [
+        "/atelier-vale/products/silkway-drape-blouse-1.webp",
+        "/atelier-vale/products/silkway-drape-blouse-2.webp",
+        "/atelier-vale/products/silkway-drape-blouse-3.webp",
+        "/atelier-vale/products/silkway-drape-blouse-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Ivory",
+          "colorHex": "#F3EEE6",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/silkway-drape-blouse-1.webp"
+        },
+        {
+          "color": "Oxblood",
+          "colorHex": "#6B1C2A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/silkway-drape-blouse-2.webp"
+        }
+      ],
+      "materials": [
+        "Silk-cotton"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 80,
+      "features": [
+        "Covered placket",
+        "Cuffs that button once",
+        "Long enough to tuck clean"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Silk-cotton voile"
+        },
+        {
+          "label": "Fit",
+          "value": "Easy, not tented"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Dry clean or cold hand wash"
+        },
+        {
+          "label": "Origin",
+          "value": "Woven in India, sewn in Portugal"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-SW-031"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Ruth Calder",
+          "rating": 4,
+          "body": "Opaque enough for work. The cuff sits well under a knit.",
+          "date": "2026-01-22"
+        },
+        {
+          "author": "Nadia Holm",
+          "rating": 5,
+          "body": "Ivory is warm, not bridal. I wear it twice a week.",
+          "date": "2026-03-30"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Does it wrinkle in a bag?",
+          "answer": "It takes a crease. Hang it; steam the front, not the drape."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "Cloth that moves, seam that stays",
+      "storyBody": "Silkway hung this on a stand for a week before they approved the hem. The drape is cut, not gathered."
+    },
+    {
+      "id": "p-05",
+      "slug": "oak-thread-slim-denim-jacket",
+      "name": "Oak & Thread Slim Denim Jacket",
+      "description": "A slim trucker in 13.5 oz denim, rinsed once. The chest pockets sit higher so a strap does not drag them.",
+      "category": "men",
+      "brand": "Oak & Thread",
+      "sku": "AV-OT-040",
+      "price": 196,
+      "compareAtPrice": 248,
+      "image": "/atelier-vale/products/oak-thread-slim-denim-jacket-1.webp",
+      "hoverImage": "/atelier-vale/products/oak-thread-slim-denim-jacket-2.webp",
+      "images": [
+        "/atelier-vale/products/oak-thread-slim-denim-jacket-1.webp",
+        "/atelier-vale/products/oak-thread-slim-denim-jacket-2.webp",
+        "/atelier-vale/products/oak-thread-slim-denim-jacket-3.webp",
+        "/atelier-vale/products/oak-thread-slim-denim-jacket-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/oak-thread-slim-denim-jacket-1.webp"
+        },
+        {
+          "color": "Sand",
+          "colorHex": "#C4B49A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/oak-thread-slim-denim-jacket-2.webp"
+        }
+      ],
+      "materials": [
+        "Denim",
+        "Cotton"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": true,
+      "published": true,
+      "inStock": true,
+      "stockQty": 80,
+      "badge": "hot",
+      "features": [
+        "Copper hardware",
+        "Adjustable waist tabs",
+        "Unlined, breaks in"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "13.5 oz ring denim"
+        },
+        {
+          "label": "Fit",
+          "value": "Slim through the body"
+        },
+        {
+          "label": "Weight",
+          "value": "Mid-weight"
+        },
+        {
+          "label": "Care",
+          "value": "Wash cold, inside-out, rare"
+        },
+        {
+          "label": "Origin",
+          "value": "Milled in Japan, sewn in California"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-OT-040"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Theo March",
+          "rating": 5,
+          "body": "Sleeves are long enough. I cuff once and they stay.",
+          "date": "2026-02-02"
+        },
+        {
+          "author": "Samir Cole",
+          "rating": 4,
+          "body": "Slim is honest. If you layer a heavy knit, size up.",
+          "date": "2026-04-14"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Will the Sand fade fast?",
+          "answer": "It will lighten at the creases. That is the cloth working."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "Denim cut to last, not to shout",
+      "storyBody": "Oak & Thread rinse this once so the first year is yours, not the factory's. The collar stands without a fuse."
+    },
+    {
+      "id": "p-06",
+      "slug": "harborline-work-shirt",
+      "name": "Harborline Work Shirt",
+      "description": "A two-pocket work shirt in mid-weight twill. The yoke is doubled. The collar is fused just enough to stand at noon.",
+      "category": "men",
+      "brand": "Harborline",
+      "sku": "AV-HL-055",
+      "price": 118,
+      "image": "/atelier-vale/products/harborline-work-shirt-1.webp",
+      "hoverImage": "/atelier-vale/products/harborline-work-shirt-2.webp",
+      "images": [
+        "/atelier-vale/products/harborline-work-shirt-1.webp",
+        "/atelier-vale/products/harborline-work-shirt-2.webp",
+        "/atelier-vale/products/harborline-work-shirt-3.webp",
+        "/atelier-vale/products/harborline-work-shirt-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Navy",
+          "colorHex": "#1C2A4A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/harborline-work-shirt-1.webp"
+        },
+        {
+          "color": "Bone",
+          "colorHex": "#E8E0D4",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/harborline-work-shirt-2.webp"
+        }
+      ],
+      "materials": [
+        "Cotton"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 80,
+      "features": [
+        "Pencil slot in the left pocket",
+        "Lockstitch buttons",
+        "Shirttail that stays tucked"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "7 oz cotton twill"
+        },
+        {
+          "label": "Fit",
+          "value": "Regular"
+        },
+        {
+          "label": "Weight",
+          "value": "Mid-weight"
+        },
+        {
+          "label": "Care",
+          "value": "Wash warm, hang dry, press the collar"
+        },
+        {
+          "label": "Origin",
+          "value": "Sewn in Portugal"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-HL-055"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Owen Grant",
+          "rating": 5,
+          "body": "Navy hides ink. I wear it in the studio five days.",
+          "date": "2026-01-08"
+        },
+        {
+          "author": "Luis Ortega",
+          "rating": 4,
+          "body": "True to size. Shoulders sit where they should.",
+          "date": "2026-05-19"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Can I put it in the dryer?",
+          "answer": "You can. It will soften and lose a little length. We hang ours."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "A shirt that takes a belt",
+      "storyBody": "Harborline cut this for people who lean on tables. The pocket bags are deep. The side seams are felled."
+    },
+    {
+      "id": "p-07",
+      "slug": "crispform-tailored-trouser",
+      "name": "Crispform Tailored Trouser",
+      "description": "A flat-front trouser with a clean break and a hidden side adjuster. The cloth holds a crease through a damp commute.",
+      "category": "men",
+      "brand": "Crispform",
+      "sku": "AV-CF-061",
+      "price": 168,
+      "image": "/atelier-vale/products/crispform-tailored-trouser-1.webp",
+      "hoverImage": "/atelier-vale/products/crispform-tailored-trouser-2.webp",
+      "images": [
+        "/atelier-vale/products/crispform-tailored-trouser-1.webp",
+        "/atelier-vale/products/crispform-tailored-trouser-2.webp",
+        "/atelier-vale/products/crispform-tailored-trouser-3.webp",
+        "/atelier-vale/products/crispform-tailored-trouser-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Charcoal",
+          "colorHex": "#2E2E2E",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/crispform-tailored-trouser-1.webp"
+        },
+        {
+          "color": "Sand",
+          "colorHex": "#C4B49A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/crispform-tailored-trouser-2.webp"
+        }
+      ],
+      "materials": [
+        "Fine wool",
+        "SoftBlend"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": true,
+      "published": true,
+      "inStock": true,
+      "stockQty": 80,
+      "features": [
+        "Hidden side tabs",
+        "Unfinished hem, 36 inch inseam to start",
+        "French bearer"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Wool-blend suiting, 260 gsm"
+        },
+        {
+          "label": "Fit",
+          "value": "Tapered, mid rise"
+        },
+        {
+          "label": "Weight",
+          "value": "Mid-weight"
+        },
+        {
+          "label": "Care",
+          "value": "Dry clean. Steam the crease."
+        },
+        {
+          "label": "Origin",
+          "value": "Cut in Brooklyn"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-CF-061"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Ben Adler",
+          "rating": 5,
+          "body": "Charcoal is a true grey, not blue. Hemmed once, done.",
+          "date": "2026-03-03"
+        },
+        {
+          "author": "Chris Yoon",
+          "rating": 4,
+          "body": "Rise is modern, not low. Belt optional because of the tabs.",
+          "date": "2026-04-27"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Do they bag at the knee?",
+          "answer": "Not if you hang them. The blend springs back overnight."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Waist",
+          "value": "XS 28\" · S 30\" · M 32\" · L 34\" · XL 36\""
+        },
+        {
+          "label": "Rise",
+          "value": "11.5\" front on size M"
+        },
+        {
+          "label": "Hem",
+          "value": "Unfinished. Take to a tailor."
+        }
+      ],
+      "storyTitle": "Trousers that stand when you sit",
+      "storyBody": "Crispform fused the waist, not the whole leg. The knee still bends. The pocket stays shut without a welt shout."
+    },
+    {
+      "id": "p-08",
+      "slug": "tidewear-linen-camp-shirt",
+      "name": "Tidewear Linen Camp Shirt",
+      "description": "A camp collar in garment-washed linen. The hem is straight. Wear it open over a tank or closed with one button skipped.",
+      "category": "men",
+      "brand": "Tidewear",
+      "sku": "AV-TW-070",
+      "price": 98,
+      "image": "/atelier-vale/products/tidewear-linen-camp-shirt-1.webp",
+      "hoverImage": "/atelier-vale/products/tidewear-linen-camp-shirt-2.webp",
+      "images": [
+        "/atelier-vale/products/tidewear-linen-camp-shirt-1.webp",
+        "/atelier-vale/products/tidewear-linen-camp-shirt-2.webp",
+        "/atelier-vale/products/tidewear-linen-camp-shirt-3.webp",
+        "/atelier-vale/products/tidewear-linen-camp-shirt-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Sage",
+          "colorHex": "#8A9A7B",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/tidewear-linen-camp-shirt-1.webp"
+        },
+        {
+          "color": "Ivory",
+          "colorHex": "#F3EEE6",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/tidewear-linen-camp-shirt-2.webp"
+        }
+      ],
+      "materials": [
+        "Linen"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 80,
+      "features": [
+        "Camp collar, no fuse",
+        "Single chest pocket",
+        "Washed so the first wrinkle is already there"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Washed linen"
+        },
+        {
+          "label": "Fit",
+          "value": "Relaxed"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Wash cold, hang, do not chase every crease"
+        },
+        {
+          "label": "Origin",
+          "value": "Woven in Lithuania"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-TW-070"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Marco Bell",
+          "rating": 5,
+          "body": "Sage with sand trousers. That is the whole summer.",
+          "date": "2026-05-02"
+        },
+        {
+          "author": "Ivy Chen",
+          "rating": 4,
+          "body": "Bought it for someone else. Kept it. Sleeve is generous.",
+          "date": "2026-06-11"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Is it see-through?",
+          "answer": "Ivory is a little. Wear it open, or over a tank. Sage is safer."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "Linen that already knows you",
+      "storyBody": "Tidewear washes this in enzyme so you do not spend a year softening it. The collar rolls, it does not spike."
+    },
+    {
+      "id": "p-09",
+      "slug": "tidewear-kids-fleece-hoodie",
+      "name": "Tidewear Kids Fleece Hoodie",
+      "description": "A kids' hoodie in brushed fleece with a lined hood and a kangaroo pocket deep enough for a stone collection.",
+      "category": "kids",
+      "brand": "Tidewear",
+      "sku": "AV-TW-081",
+      "price": 64,
+      "image": "/atelier-vale/products/tidewear-kids-fleece-hoodie-1.webp",
+      "hoverImage": "/atelier-vale/products/tidewear-kids-fleece-hoodie-2.webp",
+      "images": [
+        "/atelier-vale/products/tidewear-kids-fleece-hoodie-1.webp",
+        "/atelier-vale/products/tidewear-kids-fleece-hoodie-2.webp",
+        "/atelier-vale/products/tidewear-kids-fleece-hoodie-3.webp",
+        "/atelier-vale/products/tidewear-kids-fleece-hoodie-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Navy",
+          "colorHex": "#1C2A4A",
+          "sizes": [
+            {
+              "size": "4",
+              "qty": 7
+            },
+            {
+              "size": "6",
+              "qty": 7
+            },
+            {
+              "size": "8",
+              "qty": 7
+            },
+            {
+              "size": "10",
+              "qty": 7
+            },
+            {
+              "size": "12",
+              "qty": 7
+            }
+          ],
+          "image": "/atelier-vale/products/tidewear-kids-fleece-hoodie-1.webp"
+        },
+        {
+          "color": "Bone",
+          "colorHex": "#E8E0D4",
+          "sizes": [
+            {
+              "size": "4",
+              "qty": 7
+            },
+            {
+              "size": "6",
+              "qty": 7
+            },
+            {
+              "size": "8",
+              "qty": 7
+            },
+            {
+              "size": "10",
+              "qty": 7
+            },
+            {
+              "size": "12",
+              "qty": 7
+            }
+          ],
+          "image": "/atelier-vale/products/tidewear-kids-fleece-hoodie-2.webp"
+        }
+      ],
+      "materials": [
+        "Cotton",
+        "SoftBlend"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 70,
+      "features": [
+        "Lined hood",
+        "Rib that survives the dryer",
+        "No dangling extra cords"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Brushed cotton fleece"
+        },
+        {
+          "label": "Fit",
+          "value": "Regular kids"
+        },
+        {
+          "label": "Weight",
+          "value": "Mid-weight"
+        },
+        {
+          "label": "Care",
+          "value": "Wash warm, tumble low"
+        },
+        {
+          "label": "Origin",
+          "value": "Sewn in Portugal"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-TW-081"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Keira Holt",
+          "rating": 5,
+          "body": "Size 8 is true. Hood stays up in wind.",
+          "date": "2026-02-14"
+        },
+        {
+          "author": "Dan Park",
+          "rating": 4,
+          "body": "Bone hid less mud than I hoped. Still the better colour.",
+          "date": "2026-03-21"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Is the hood lined?",
+          "answer": "Yes, in the same jersey as the body. No scratch."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "4 23\" · 6 25\" · 8 27\" · 10 29\" · 12 31\""
+        },
+        {
+          "label": "Height",
+          "value": "Age as a starting point, measure the child"
+        }
+      ],
+      "storyTitle": "Built for the playground and the car seat",
+      "storyBody": "Tidewear skipped the metal eyelets. The pocket is bartacked. The fleece does not pill on a backpack."
+    },
+    {
+      "id": "p-10",
+      "slug": "northloom-mini-graphic-tee",
+      "name": "Northloom Mini Graphic Tee",
+      "description": "A kids' tee in the same compact jersey as the grown one. Short sleeve, easy neck, a small Vale stamp at the hem.",
+      "category": "kids",
+      "brand": "Northloom",
+      "sku": "AV-NL-082",
+      "price": 48,
+      "image": "/atelier-vale/products/northloom-mini-graphic-tee-1.webp",
+      "hoverImage": "/atelier-vale/products/northloom-mini-graphic-tee-2.webp",
+      "images": [
+        "/atelier-vale/products/northloom-mini-graphic-tee-1.webp",
+        "/atelier-vale/products/northloom-mini-graphic-tee-2.webp",
+        "/atelier-vale/products/northloom-mini-graphic-tee-3.webp",
+        "/atelier-vale/products/northloom-mini-graphic-tee-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Oxblood",
+          "colorHex": "#6B1C2A",
+          "sizes": [
+            {
+              "size": "4",
+              "qty": 9
+            },
+            {
+              "size": "6",
+              "qty": 9
+            },
+            {
+              "size": "8",
+              "qty": 9
+            },
+            {
+              "size": "10",
+              "qty": 9
+            },
+            {
+              "size": "12",
+              "qty": 9
+            }
+          ],
+          "image": "/atelier-vale/products/northloom-mini-graphic-tee-1.webp"
+        },
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "4",
+              "qty": 9
+            },
+            {
+              "size": "6",
+              "qty": 9
+            },
+            {
+              "size": "8",
+              "qty": 9
+            },
+            {
+              "size": "10",
+              "qty": 9
+            },
+            {
+              "size": "12",
+              "qty": 9
+            }
+          ],
+          "image": "/atelier-vale/products/northloom-mini-graphic-tee-2.webp"
+        }
+      ],
+      "materials": [
+        "Cotton"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 90,
+      "features": [
+        "Bound neck that does not bag",
+        "Straight hem",
+        "Print that survives bleach-free wash"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "160 gsm cotton jersey"
+        },
+        {
+          "label": "Fit",
+          "value": "Regular kids"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Wash cold, tumble low"
+        },
+        {
+          "label": "Origin",
+          "value": "Knitted in Peru"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-NL-082"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Sofia Rios",
+          "rating": 5,
+          "body": "Neck is not tight. That is the whole review.",
+          "date": "2026-04-04"
+        },
+        {
+          "author": "Paul Singh",
+          "rating": 4,
+          "body": "Ink hid lunch. Bought two.",
+          "date": "2026-05-16"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Does it run small?",
+          "answer": "No. If they are between sizes, take the larger for a year."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "4 23\" · 6 25\" · 8 27\" · 10 29\" · 12 31\""
+        },
+        {
+          "label": "Height",
+          "value": "Age as a starting point, measure the child"
+        }
+      ],
+      "storyTitle": "The same cloth, a shorter story",
+      "storyBody": "Northloom refused a cheaper kids' jersey. This is the adult mill, smaller pattern."
+    },
+    {
+      "id": "p-11",
+      "slug": "oak-thread-kids-denim",
+      "name": "Oak & Thread Kids Denim",
+      "description": "Kids' jeans in a softer 11 oz denim with an adjustable elastic inside the waist. Knees are doubled on the inside.",
+      "category": "kids",
+      "brand": "Oak & Thread",
+      "sku": "AV-OT-083",
+      "price": 78,
+      "image": "/atelier-vale/products/oak-thread-kids-denim-1.webp",
+      "hoverImage": "/atelier-vale/products/oak-thread-kids-denim-2.webp",
+      "images": [
+        "/atelier-vale/products/oak-thread-kids-denim-1.webp",
+        "/atelier-vale/products/oak-thread-kids-denim-2.webp",
+        "/atelier-vale/products/oak-thread-kids-denim-3.webp",
+        "/atelier-vale/products/oak-thread-kids-denim-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "4",
+              "qty": 6
+            },
+            {
+              "size": "6",
+              "qty": 6
+            },
+            {
+              "size": "8",
+              "qty": 6
+            },
+            {
+              "size": "10",
+              "qty": 6
+            },
+            {
+              "size": "12",
+              "qty": 6
+            }
+          ],
+          "image": "/atelier-vale/products/oak-thread-kids-denim-1.webp"
+        },
+        {
+          "color": "Sand",
+          "colorHex": "#C4B49A",
+          "sizes": [
+            {
+              "size": "4",
+              "qty": 6
+            },
+            {
+              "size": "6",
+              "qty": 6
+            },
+            {
+              "size": "8",
+              "qty": 6
+            },
+            {
+              "size": "10",
+              "qty": 6
+            },
+            {
+              "size": "12",
+              "qty": 6
+            }
+          ],
+          "image": "/atelier-vale/products/oak-thread-kids-denim-2.webp"
+        }
+      ],
+      "materials": [
+        "Denim",
+        "Cotton"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 60,
+      "features": [
+        "Hidden waist elastic",
+        "Reinforced knee",
+        "Straight leg"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "11 oz denim"
+        },
+        {
+          "label": "Fit",
+          "value": "Straight"
+        },
+        {
+          "label": "Weight",
+          "value": "Mid-weight"
+        },
+        {
+          "label": "Care",
+          "value": "Wash cold, inside-out"
+        },
+        {
+          "label": "Origin",
+          "value": "Sewn in California"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-OT-083"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Nina Brooks",
+          "rating": 5,
+          "body": "Elastic actually works. We got a season, not a month.",
+          "date": "2026-01-19"
+        },
+        {
+          "author": "Greg Hale",
+          "rating": 4,
+          "body": "Sand shows dust. Ink is the school pair.",
+          "date": "2026-02-28"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Can they kneel without blowing out?",
+          "answer": "That is why the knee is doubled. Still not armour."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "4 23\" · 6 25\" · 8 27\" · 10 29\" · 12 31\""
+        },
+        {
+          "label": "Height",
+          "value": "Age as a starting point, measure the child"
+        }
+      ],
+      "storyTitle": "Jeans that survive the slide",
+      "storyBody": "Oak & Thread put a second cloth behind the knee. The rivets are dull, not sharp on a car seat."
+    },
+    {
+      "id": "p-12",
+      "slug": "velvet-lane-curve-knit-dress",
+      "name": "Velvet Lane Curve Knit Dress",
+      "description": "A long-sleeve knit dress graded on a curve block. The waist is suggested, not cinched. The skirt falls to mid-calf.",
+      "category": "curve",
+      "brand": "Velvet Lane",
+      "sku": "AV-VL-090",
+      "price": 176,
+      "image": "/atelier-vale/products/velvet-lane-curve-knit-dress-1.webp",
+      "hoverImage": "/atelier-vale/products/velvet-lane-curve-knit-dress-2.webp",
+      "images": [
+        "/atelier-vale/products/velvet-lane-curve-knit-dress-1.webp",
+        "/atelier-vale/products/velvet-lane-curve-knit-dress-2.webp",
+        "/atelier-vale/products/velvet-lane-curve-knit-dress-3.webp",
+        "/atelier-vale/products/velvet-lane-curve-knit-dress-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 5
+            },
+            {
+              "size": "S",
+              "qty": 5
+            },
+            {
+              "size": "M",
+              "qty": 5
+            },
+            {
+              "size": "L",
+              "qty": 5
+            },
+            {
+              "size": "XL",
+              "qty": 5
+            }
+          ],
+          "image": "/atelier-vale/products/velvet-lane-curve-knit-dress-1.webp"
+        },
+        {
+          "color": "Oxblood",
+          "colorHex": "#6B1C2A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 5
+            },
+            {
+              "size": "S",
+              "qty": 5
+            },
+            {
+              "size": "M",
+              "qty": 5
+            },
+            {
+              "size": "L",
+              "qty": 5
+            },
+            {
+              "size": "XL",
+              "qty": 5
+            }
+          ],
+          "image": "/atelier-vale/products/velvet-lane-curve-knit-dress-2.webp"
+        }
+      ],
+      "materials": [
+        "Fine wool",
+        "SoftBlend"
+      ],
+      "rating": 5,
+      "reviewCount": 2,
+      "featured": true,
+      "published": true,
+      "inStock": true,
+      "stockQty": 50,
+      "features": [
+        "Curve block from size XS up",
+        "Long sleeve with a clean cuff",
+        "Midi that clears a boot"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Fine wool-blend knit"
+        },
+        {
+          "label": "Fit",
+          "value": "Curve, midi"
+        },
+        {
+          "label": "Weight",
+          "value": "Mid-weight"
+        },
+        {
+          "label": "Care",
+          "value": "Hand wash, dry flat"
+        },
+        {
+          "label": "Origin",
+          "value": "Knitted in Italy"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-VL-090"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Alicia Grant",
+          "rating": 5,
+          "body": "Hip is allowed to exist. That is rare in a knit dress.",
+          "date": "2026-03-08"
+        },
+        {
+          "author": "Dina Moreau",
+          "rating": 5,
+          "body": "Oxblood is winter. I wear a belt only if I want to.",
+          "date": "2026-04-18"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Is it clingy?",
+          "answer": "It skims. A slip is optional, not required."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "A dress that starts with the hip",
+      "storyBody": "Velvet Lane graded this from a real curve fit model, not a scaled-up sample. The sleeve does not drag."
+    },
+    {
+      "id": "p-13",
+      "slug": "harborline-curve-wide-trouser",
+      "name": "Harborline Curve Wide Trouser",
+      "description": "A wide-leg trouser on a curve rise. Soft twill, front pleat that opens when you walk, pocket bags that do not gap.",
+      "category": "curve",
+      "brand": "Harborline",
+      "sku": "AV-HL-091",
+      "price": 138,
+      "image": "/atelier-vale/products/harborline-curve-wide-trouser-1.webp",
+      "hoverImage": "/atelier-vale/products/harborline-curve-wide-trouser-2.webp",
+      "images": [
+        "/atelier-vale/products/harborline-curve-wide-trouser-1.webp",
+        "/atelier-vale/products/harborline-curve-wide-trouser-2.webp",
+        "/atelier-vale/products/harborline-curve-wide-trouser-3.webp",
+        "/atelier-vale/products/harborline-curve-wide-trouser-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Bone",
+          "colorHex": "#E8E0D4",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 6
+            },
+            {
+              "size": "S",
+              "qty": 6
+            },
+            {
+              "size": "M",
+              "qty": 6
+            },
+            {
+              "size": "L",
+              "qty": 6
+            },
+            {
+              "size": "XL",
+              "qty": 6
+            }
+          ],
+          "image": "/atelier-vale/products/harborline-curve-wide-trouser-1.webp"
+        },
+        {
+          "color": "Navy",
+          "colorHex": "#1C2A4A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 6
+            },
+            {
+              "size": "S",
+              "qty": 6
+            },
+            {
+              "size": "M",
+              "qty": 6
+            },
+            {
+              "size": "L",
+              "qty": 6
+            },
+            {
+              "size": "XL",
+              "qty": 6
+            }
+          ],
+          "image": "/atelier-vale/products/harborline-curve-wide-trouser-2.webp"
+        }
+      ],
+      "materials": [
+        "Cotton",
+        "SoftBlend"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 60,
+      "features": [
+        "Higher back rise",
+        "Deep side pockets",
+        "Full leg, cropped to ankle"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Cotton twill with a little give"
+        },
+        {
+          "label": "Fit",
+          "value": "Wide, curve rise"
+        },
+        {
+          "label": "Weight",
+          "value": "Mid-weight"
+        },
+        {
+          "label": "Care",
+          "value": "Wash cold, hang, press the pleat"
+        },
+        {
+          "label": "Origin",
+          "value": "Sewn in Portugal"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-HL-091"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Lena Ortiz",
+          "rating": 5,
+          "body": "Back rise is the whole point. No gap.",
+          "date": "2026-05-05"
+        },
+        {
+          "author": "June Adler",
+          "rating": 4,
+          "body": "Bone with the drape blouse. That is the uniform.",
+          "date": "2026-06-02"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Do I need a belt?",
+          "answer": "Not if you take your waist size. The pleat holds."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Waist",
+          "value": "Sit at the true waist. Do not size down."
+        },
+        {
+          "label": "Rise",
+          "value": "12.5\" front on size M"
+        },
+        {
+          "label": "Leg",
+          "value": "Wide, cropped"
+        }
+      ],
+      "storyTitle": "Width with a waist",
+      "storyBody": "Harborline kept the pleat shallow so it does not add bulk. The hem is weighted. It walks."
+    },
+    {
+      "id": "p-14",
+      "slug": "silkway-column-dress",
+      "name": "Silkway Column Dress",
+      "description": "A column dress with a boat neck and a seam that runs from underarm to hem. Evening without sequins.",
+      "category": "dresses",
+      "brand": "Silkway",
+      "sku": "AV-SW-101",
+      "price": 220,
+      "compareAtPrice": 280,
+      "image": "/atelier-vale/products/silkway-column-dress-1.webp",
+      "hoverImage": "/atelier-vale/products/silkway-column-dress-2.webp",
+      "images": [
+        "/atelier-vale/products/silkway-column-dress-1.webp",
+        "/atelier-vale/products/silkway-column-dress-2.webp",
+        "/atelier-vale/products/silkway-column-dress-3.webp",
+        "/atelier-vale/products/silkway-column-dress-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/silkway-column-dress-1.webp"
+        },
+        {
+          "color": "Ivory",
+          "colorHex": "#F3EEE6",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/silkway-column-dress-2.webp"
+        }
+      ],
+      "materials": [
+        "Silk-cotton"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": true,
+      "published": true,
+      "inStock": true,
+      "stockQty": 80,
+      "badge": "sale",
+      "features": [
+        "Boat neck",
+        "Invisible side zip",
+        "Ankle length, slit at the back"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Silk-cotton satin"
+        },
+        {
+          "label": "Fit",
+          "value": "Column"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Dry clean"
+        },
+        {
+          "label": "Origin",
+          "value": "Sewn in Portugal"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-SW-101"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Helen Cho",
+          "rating": 5,
+          "body": "Ink for a winter wedding. Nobody asked who I was wearing. Good.",
+          "date": "2026-01-11"
+        },
+        {
+          "author": "Amelia Frost",
+          "rating": 4,
+          "body": "Ivory needs a slip in sun. Worth it.",
+          "date": "2026-03-17"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Can I sit in it?",
+          "answer": "Yes. The back slit is there for that, not for show."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "A line, not a costume",
+      "storyBody": "Silkway hung this on a live model for an hour. If the hem kicked, they recut. It does not kick."
+    },
+    {
+      "id": "p-15",
+      "slug": "dawncut-bias-slip-dress",
+      "name": "Dawncut Bias Slip Dress",
+      "description": "A bias slip with adjustable straps and a V that stops where it should. Wear it alone or under the overcoat.",
+      "category": "dresses",
+      "brand": "Dawncut",
+      "sku": "AV-DC-102",
+      "price": 188,
+      "image": "/atelier-vale/products/dawncut-bias-slip-dress-1.webp",
+      "hoverImage": "/atelier-vale/products/dawncut-bias-slip-dress-2.webp",
+      "images": [
+        "/atelier-vale/products/dawncut-bias-slip-dress-1.webp",
+        "/atelier-vale/products/dawncut-bias-slip-dress-2.webp",
+        "/atelier-vale/products/dawncut-bias-slip-dress-3.webp",
+        "/atelier-vale/products/dawncut-bias-slip-dress-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Sage",
+          "colorHex": "#8A9A7B",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/dawncut-bias-slip-dress-1.webp"
+        },
+        {
+          "color": "Clay",
+          "colorHex": "#B56A4E",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/dawncut-bias-slip-dress-2.webp"
+        }
+      ],
+      "materials": [
+        "Silk-cotton"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 80,
+      "features": [
+        "Bias cut",
+        "Adjustable straps",
+        "Midi"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Silk-cotton charmeuse"
+        },
+        {
+          "label": "Fit",
+          "value": "Bias, midi"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Hand wash cold, dry flat"
+        },
+        {
+          "label": "Origin",
+          "value": "Cut in New York"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-DC-102"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Yara Nasser",
+          "rating": 5,
+          "body": "Clay is the colour of brick in late sun. Straps do not slip.",
+          "date": "2026-04-09"
+        },
+        {
+          "author": "Mina Wells",
+          "rating": 4,
+          "body": "Size for the bust. The hip will follow on the bias.",
+          "date": "2026-05-22"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Do I need a special bra?",
+          "answer": "A slim strap or none. The V is not a plunge."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "Bias is a behaviour, not a trim",
+      "storyBody": "Dawncut rests this cloth for a day after cutting so the hem does not grow on you a week later."
+    },
+    {
+      "id": "p-16",
+      "slug": "velvet-lane-knit-midi-dress",
+      "name": "Velvet Lane Knit Midi Dress",
+      "description": "A short-sleeve knit midi with a round neck and a skirt that sits, then falls. Day dress. Train dress. Both.",
+      "category": "dresses",
+      "brand": "Velvet Lane",
+      "sku": "AV-VL-103",
+      "price": 164,
+      "image": "/atelier-vale/products/velvet-lane-knit-midi-dress-1.webp",
+      "hoverImage": "/atelier-vale/products/velvet-lane-knit-midi-dress-2.webp",
+      "images": [
+        "/atelier-vale/products/velvet-lane-knit-midi-dress-1.webp",
+        "/atelier-vale/products/velvet-lane-knit-midi-dress-2.webp",
+        "/atelier-vale/products/velvet-lane-knit-midi-dress-3.webp",
+        "/atelier-vale/products/velvet-lane-knit-midi-dress-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Forest",
+          "colorHex": "#2F4F3E",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/velvet-lane-knit-midi-dress-1.webp"
+        },
+        {
+          "color": "Bone",
+          "colorHex": "#E8E0D4",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/velvet-lane-knit-midi-dress-2.webp"
+        }
+      ],
+      "materials": [
+        "Cotton",
+        "Fine wool"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 80,
+      "features": [
+        "Short sleeve",
+        "Midi skirt with a little A",
+        "Neck that does not gape"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Cotton-wool compact knit"
+        },
+        {
+          "label": "Fit",
+          "value": "Easy midi"
+        },
+        {
+          "label": "Weight",
+          "value": "Mid-weight"
+        },
+        {
+          "label": "Care",
+          "value": "Hand wash, dry flat"
+        },
+        {
+          "label": "Origin",
+          "value": "Knitted in Italy"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-VL-103"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Cora James",
+          "rating": 5,
+          "body": "Forest with the leather belt. That is autumn.",
+          "date": "2026-02-07"
+        },
+        {
+          "author": "Bea Lind",
+          "rating": 4,
+          "body": "Bone shows less than I feared. I still prefer Forest.",
+          "date": "2026-03-29"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Can I layer a shirt under it?",
+          "answer": "A thin one. The neck is round, not wide."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "The dress you forget you put on",
+      "storyBody": "Velvet Lane wanted a knit you could sit in for three hours. The skirt has a panel so it does not ride."
+    },
+    {
+      "id": "p-17",
+      "slug": "velvet-lane-cozy-pullover",
+      "name": "Velvet Lane Cozy Pullover",
+      "description": "A crew pullover in a lofty yarn that is warm without the itch. Rib at the neck that does not flare in a month.",
+      "category": "fall-winter",
+      "brand": "Velvet Lane",
+      "sku": "AV-VL-110",
+      "price": 142,
+      "compareAtPrice": 198,
+      "image": "/atelier-vale/products/velvet-lane-cozy-pullover-1.webp",
+      "hoverImage": "/atelier-vale/products/velvet-lane-cozy-pullover-2.webp",
+      "images": [
+        "/atelier-vale/products/velvet-lane-cozy-pullover-1.webp",
+        "/atelier-vale/products/velvet-lane-cozy-pullover-2.webp",
+        "/atelier-vale/products/velvet-lane-cozy-pullover-3.webp",
+        "/atelier-vale/products/velvet-lane-cozy-pullover-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Camel",
+          "colorHex": "#C19A6B",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/velvet-lane-cozy-pullover-1.webp"
+        },
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 8
+            },
+            {
+              "size": "S",
+              "qty": 8
+            },
+            {
+              "size": "M",
+              "qty": 8
+            },
+            {
+              "size": "L",
+              "qty": 8
+            },
+            {
+              "size": "XL",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/velvet-lane-cozy-pullover-2.webp"
+        }
+      ],
+      "materials": [
+        "Fine wool",
+        "SoftBlend"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": true,
+      "published": true,
+      "inStock": true,
+      "stockQty": 80,
+      "badge": "sale",
+      "features": [
+        "Crew that sits on the collarbone",
+        "Lofty but not sloppy",
+        "Cuffs you can push"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Lambswool blend"
+        },
+        {
+          "label": "Fit",
+          "value": "Relaxed"
+        },
+        {
+          "label": "Weight",
+          "value": "Heavy"
+        },
+        {
+          "label": "Care",
+          "value": "Hand wash, dry flat, never hang wet"
+        },
+        {
+          "label": "Origin",
+          "value": "Knitted in Scotland"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-VL-110"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Peter Lang",
+          "rating": 5,
+          "body": "Camel with the denim jacket. No itch at the neck.",
+          "date": "2026-01-04"
+        },
+        {
+          "author": "Nora Quinn",
+          "rating": 4,
+          "body": "True oversized. I took my usual size and it is right.",
+          "date": "2026-02-11"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Will it pill under a bag?",
+          "answer": "A little at the side. A comb takes it off. That is wool."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "Warmth you can wear indoors",
+      "storyBody": "Velvet Lane spun this with a hollow yarn so it traps air. You take the coat off and you are still dressed."
+    },
+    {
+      "id": "p-18",
+      "slug": "oak-thread-wool-overcoat",
+      "name": "Oak & Thread Wool Overcoat",
+      "description": "A single-breasted overcoat in boiled wool. Notch lapel, two flap pockets, a vent that actually vents.",
+      "category": "fall-winter",
+      "brand": "Oak & Thread",
+      "sku": "AV-OT-111",
+      "price": 280,
+      "image": "/atelier-vale/products/oak-thread-wool-overcoat-1.webp",
+      "hoverImage": "/atelier-vale/products/oak-thread-wool-overcoat-2.webp",
+      "images": [
+        "/atelier-vale/products/oak-thread-wool-overcoat-1.webp",
+        "/atelier-vale/products/oak-thread-wool-overcoat-2.webp",
+        "/atelier-vale/products/oak-thread-wool-overcoat-3.webp",
+        "/atelier-vale/products/oak-thread-wool-overcoat-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Charcoal",
+          "colorHex": "#2E2E2E",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 4
+            },
+            {
+              "size": "S",
+              "qty": 4
+            },
+            {
+              "size": "M",
+              "qty": 4
+            },
+            {
+              "size": "L",
+              "qty": 4
+            },
+            {
+              "size": "XL",
+              "qty": 4
+            }
+          ],
+          "image": "/atelier-vale/products/oak-thread-wool-overcoat-1.webp"
+        },
+        {
+          "color": "Camel",
+          "colorHex": "#C19A6B",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 4
+            },
+            {
+              "size": "S",
+              "qty": 4
+            },
+            {
+              "size": "M",
+              "qty": 4
+            },
+            {
+              "size": "L",
+              "qty": 4
+            },
+            {
+              "size": "XL",
+              "qty": 4
+            }
+          ],
+          "image": "/atelier-vale/products/oak-thread-wool-overcoat-2.webp"
+        }
+      ],
+      "materials": [
+        "Fine wool"
+      ],
+      "rating": 5,
+      "reviewCount": 2,
+      "featured": true,
+      "published": true,
+      "inStock": true,
+      "stockQty": 40,
+      "features": [
+        "Boiled wool, unlined at the back",
+        "Notch lapel",
+        "Knee length"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Boiled wool, 520 gsm"
+        },
+        {
+          "label": "Fit",
+          "value": "Straight, room for a knit"
+        },
+        {
+          "label": "Weight",
+          "value": "Heavy"
+        },
+        {
+          "label": "Care",
+          "value": "Brush. Dry clean once a season."
+        },
+        {
+          "label": "Origin",
+          "value": "Cut in Brooklyn"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-OT-111"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Arthur Vale",
+          "rating": 5,
+          "body": "Charcoal with everything. Buttons are horn, not plastic.",
+          "date": "2026-01-15"
+        },
+        {
+          "author": "Simone Reed",
+          "rating": 5,
+          "body": "I wear a pullover under it. Sleeve length still covers the knit.",
+          "date": "2026-02-20"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Is it waterproof?",
+          "answer": "It sheds light rain. It is wool, not a shell."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "A coat with a job",
+      "storyBody": "Oak & Thread boiled the wool so rain beads. The back is unlined so you do not steam on the train."
+    },
+    {
+      "id": "p-19",
+      "slug": "harborline-merino-mockneck",
+      "name": "Harborline Merino Mockneck",
+      "description": "A fine merino mockneck that layers under the overcoat and does not bulk at the collar. Thin, warm, finished.",
+      "category": "fall-winter",
+      "brand": "Harborline",
+      "sku": "AV-HL-112",
+      "price": 156,
+      "image": "/atelier-vale/products/harborline-merino-mockneck-1.webp",
+      "hoverImage": "/atelier-vale/products/harborline-merino-mockneck-2.webp",
+      "images": [
+        "/atelier-vale/products/harborline-merino-mockneck-1.webp",
+        "/atelier-vale/products/harborline-merino-mockneck-2.webp",
+        "/atelier-vale/products/harborline-merino-mockneck-3.webp",
+        "/atelier-vale/products/harborline-merino-mockneck-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 7
+            },
+            {
+              "size": "S",
+              "qty": 7
+            },
+            {
+              "size": "M",
+              "qty": 3
+            },
+            {
+              "size": "L",
+              "qty": 2
+            },
+            {
+              "size": "XL",
+              "qty": 7
+            }
+          ],
+          "image": "/atelier-vale/products/harborline-merino-mockneck-1.webp"
+        },
+        {
+          "color": "Forest",
+          "colorHex": "#2F4F3E",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 7
+            },
+            {
+              "size": "S",
+              "qty": 7
+            },
+            {
+              "size": "M",
+              "qty": 7
+            },
+            {
+              "size": "L",
+              "qty": 7
+            },
+            {
+              "size": "XL",
+              "qty": 7
+            }
+          ],
+          "image": "/atelier-vale/products/harborline-merino-mockneck-2.webp"
+        }
+      ],
+      "materials": [
+        "Fine wool"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 61,
+      "features": [
+        "Mock neck, not a funnel",
+        "Fine gauge",
+        "Long enough to stay tucked"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "18.5 micron merino"
+        },
+        {
+          "label": "Fit",
+          "value": "Close"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Hand wash, dry flat"
+        },
+        {
+          "label": "Origin",
+          "value": "Knitted in New Zealand yarn, Scotland"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-HL-112"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Will Hart",
+          "rating": 5,
+          "body": "Under the work shirt in January. No bulk at the button.",
+          "date": "2026-01-28"
+        },
+        {
+          "author": "Eva Strom",
+          "rating": 4,
+          "body": "Forest is dark. Not pine, not black. Good.",
+          "date": "2026-03-06"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Does merino itch?",
+          "answer": "This micron does not, unless you are very sensitive at the neck."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "The layer you forget",
+      "storyBody": "Harborline wanted merino that does not smell after a day and does not itch at the jaw. This is that knit."
+    },
+    {
+      "id": "p-20",
+      "slug": "crispform-leather-derby",
+      "name": "Crispform Leather Derby",
+      "description": "A five-eye derby on a modest last. Calf leather, stacked heel, a sole you can resole.",
+      "category": "shoes",
+      "brand": "Crispform",
+      "sku": "AV-CF-120",
+      "price": 248,
+      "image": "/atelier-vale/products/crispform-leather-derby-1.webp",
+      "hoverImage": "/atelier-vale/products/crispform-leather-derby-2.webp",
+      "images": [
+        "/atelier-vale/products/crispform-leather-derby-1.webp",
+        "/atelier-vale/products/crispform-leather-derby-2.webp",
+        "/atelier-vale/products/crispform-leather-derby-3.webp",
+        "/atelier-vale/products/crispform-leather-derby-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "36",
+              "qty": 3
+            },
+            {
+              "size": "37",
+              "qty": 3
+            },
+            {
+              "size": "38",
+              "qty": 3
+            },
+            {
+              "size": "39",
+              "qty": 3
+            },
+            {
+              "size": "40",
+              "qty": 3
+            },
+            {
+              "size": "41",
+              "qty": 3
+            },
+            {
+              "size": "42",
+              "qty": 3
+            },
+            {
+              "size": "43",
+              "qty": 3
+            },
+            {
+              "size": "44",
+              "qty": 3
+            }
+          ],
+          "image": "/atelier-vale/products/crispform-leather-derby-1.webp"
+        },
+        {
+          "color": "Camel",
+          "colorHex": "#C19A6B",
+          "sizes": [
+            {
+              "size": "36",
+              "qty": 3
+            },
+            {
+              "size": "37",
+              "qty": 3
+            },
+            {
+              "size": "38",
+              "qty": 3
+            },
+            {
+              "size": "39",
+              "qty": 3
+            },
+            {
+              "size": "40",
+              "qty": 3
+            },
+            {
+              "size": "41",
+              "qty": 3
+            },
+            {
+              "size": "42",
+              "qty": 3
+            },
+            {
+              "size": "43",
+              "qty": 3
+            },
+            {
+              "size": "44",
+              "qty": 3
+            }
+          ],
+          "image": "/atelier-vale/products/crispform-leather-derby-2.webp"
+        }
+      ],
+      "materials": [
+        "Leather"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 54,
+      "features": [
+        "Goodyear-ready construction",
+        "Leather insole",
+        "Stacked leather heel"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Calf leather upper"
+        },
+        {
+          "label": "Fit",
+          "value": "Medium last"
+        },
+        {
+          "label": "Weight",
+          "value": "Solid"
+        },
+        {
+          "label": "Care",
+          "value": "Brush, cream, trees"
+        },
+        {
+          "label": "Origin",
+          "value": "Made in Northampton"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-CF-120"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "James Whit",
+          "rating": 5,
+          "body": "True to EU size. Broke in over a week, not a month.",
+          "date": "2026-02-09"
+        },
+        {
+          "author": "Omar Diaz",
+          "rating": 4,
+          "body": "Camel scuffs visibly. I like that. Ink is the office pair.",
+          "date": "2026-04-01"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Are they comfortable on day one?",
+          "answer": "Wearable. Not slipper-soft. Use trees. Walk."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "EU",
+          "value": "36–44"
+        },
+        {
+          "label": "Last",
+          "value": "Medium width. Half sizes, take the next full size up."
+        }
+      ],
+      "storyTitle": "A shoe that can be repaired",
+      "storyBody": "Crispform refused a glued fashion sole. Take these to a cobbler in five years. That is the point."
+    },
+    {
+      "id": "p-21",
+      "slug": "tidewear-canvas-court-shoe",
+      "name": "Tidewear Canvas Court Shoe",
+      "description": "A low court shoe in washed canvas with a gum sole and a leather lining at the heel. Summer, errand, train.",
+      "category": "shoes",
+      "brand": "Tidewear",
+      "sku": "AV-TW-121",
+      "price": 118,
+      "image": "/atelier-vale/products/tidewear-canvas-court-shoe-1.webp",
+      "hoverImage": "/atelier-vale/products/tidewear-canvas-court-shoe-2.webp",
+      "images": [
+        "/atelier-vale/products/tidewear-canvas-court-shoe-1.webp",
+        "/atelier-vale/products/tidewear-canvas-court-shoe-2.webp",
+        "/atelier-vale/products/tidewear-canvas-court-shoe-3.webp",
+        "/atelier-vale/products/tidewear-canvas-court-shoe-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Bone",
+          "colorHex": "#E8E0D4",
+          "sizes": [
+            {
+              "size": "36",
+              "qty": 8
+            },
+            {
+              "size": "37",
+              "qty": 8
+            },
+            {
+              "size": "38",
+              "qty": 8
+            },
+            {
+              "size": "39",
+              "qty": 8
+            },
+            {
+              "size": "40",
+              "qty": 8
+            },
+            {
+              "size": "41",
+              "qty": 8
+            },
+            {
+              "size": "42",
+              "qty": 8
+            },
+            {
+              "size": "43",
+              "qty": 8
+            },
+            {
+              "size": "44",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/tidewear-canvas-court-shoe-1.webp"
+        },
+        {
+          "color": "Navy",
+          "colorHex": "#1C2A4A",
+          "sizes": [
+            {
+              "size": "36",
+              "qty": 8
+            },
+            {
+              "size": "37",
+              "qty": 8
+            },
+            {
+              "size": "38",
+              "qty": 8
+            },
+            {
+              "size": "39",
+              "qty": 8
+            },
+            {
+              "size": "40",
+              "qty": 8
+            },
+            {
+              "size": "41",
+              "qty": 8
+            },
+            {
+              "size": "42",
+              "qty": 8
+            },
+            {
+              "size": "43",
+              "qty": 8
+            },
+            {
+              "size": "44",
+              "qty": 8
+            }
+          ],
+          "image": "/atelier-vale/products/tidewear-canvas-court-shoe-2.webp"
+        }
+      ],
+      "materials": [
+        "Canvas",
+        "Leather"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 144,
+      "features": [
+        "Gum cupsole",
+        "Leather heel lining",
+        "Removable insole"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Washed canvas, rubber cupsole"
+        },
+        {
+          "label": "Fit",
+          "value": "Regular"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Brush dirt. Spot clean."
+        },
+        {
+          "label": "Origin",
+          "value": "Made in Vietnam"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-TW-121"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Rae Kim",
+          "rating": 5,
+          "body": "Bone with linen. I own two because I wrecked the first pair walking.",
+          "date": "2026-05-08"
+        },
+        {
+          "author": "Tom Ellis",
+          "rating": 4,
+          "body": "Take your usual EU size. Wide foot, maybe 43 instead of 42.",
+          "date": "2026-06-14"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Can I throw them in the wash?",
+          "answer": "We do not. The gum sole lasts longer if you brush them."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "EU",
+          "value": "36–44"
+        },
+        {
+          "label": "Last",
+          "value": "Medium width. Half sizes, take the next full size up."
+        }
+      ],
+      "storyTitle": "A court shoe that is not a logo",
+      "storyBody": "Tidewear kept the foxing clean and the branding off the side. The gum sole is the only shine."
+    },
+    {
+      "id": "p-22",
+      "slug": "silkway-soft-tote",
+      "name": "Silkway Soft Tote",
+      "description": "An unlined leather tote that slumps the right amount. Two handles, one inside pocket, room for a book and a sweater.",
+      "category": "bags",
+      "brand": "Silkway",
+      "sku": "AV-SW-130",
+      "price": 168,
+      "image": "/atelier-vale/products/silkway-soft-tote-1.webp",
+      "hoverImage": "/atelier-vale/products/silkway-soft-tote-2.webp",
+      "images": [
+        "/atelier-vale/products/silkway-soft-tote-1.webp",
+        "/atelier-vale/products/silkway-soft-tote-2.webp",
+        "/atelier-vale/products/silkway-soft-tote-3.webp",
+        "/atelier-vale/products/silkway-soft-tote-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Sand",
+          "colorHex": "#C4B49A",
+          "sizes": [
+            {
+              "size": "OS",
+              "qty": 12
+            }
+          ],
+          "image": "/atelier-vale/products/silkway-soft-tote-1.webp"
+        },
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "OS",
+              "qty": 12
+            }
+          ],
+          "image": "/atelier-vale/products/silkway-soft-tote-2.webp"
+        }
+      ],
+      "materials": [
+        "Leather"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": true,
+      "published": true,
+      "inStock": true,
+      "stockQty": 24,
+      "features": [
+        "Unlined vegetable-tanned leather",
+        "Inside slip pocket",
+        "Handles that sit on the shoulder"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Vegetable-tanned leather"
+        },
+        {
+          "label": "Fit",
+          "value": "Holds a 13\" laptop sleeved"
+        },
+        {
+          "label": "Weight",
+          "value": "Light for leather"
+        },
+        {
+          "label": "Care",
+          "value": "Wipe. Condition twice a year."
+        },
+        {
+          "label": "Origin",
+          "value": "Made in Florence"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-SW-130"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Greta Holm",
+          "rating": 5,
+          "body": "Sand took a month to look like mine. That was the pleasure.",
+          "date": "2026-03-11"
+        },
+        {
+          "author": "Ian Brooks",
+          "rating": 4,
+          "body": "No zip. I knew that. Still wish for a snap on crowded trains.",
+          "date": "2026-04-23"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Is there a zip?",
+          "answer": "No. A snap under the handle is as far as we go in v1."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Size",
+          "value": "38 × 30 × 12 cm"
+        },
+        {
+          "label": "Handle drop",
+          "value": "24 cm"
+        }
+      ],
+      "storyTitle": "A bag that gets better dirty",
+      "storyBody": "Silkway leaves this leather unfinished on purpose. The first rain mark is the start of the bag, not the end."
+    },
+    {
+      "id": "p-23",
+      "slug": "northloom-compact-crossbody",
+      "name": "Northloom Compact Crossbody",
+      "description": "A small crossbody for phone, keys, a card case. Adjustable strap, a flap that closes with a hidden magnet.",
+      "category": "bags",
+      "brand": "Northloom",
+      "sku": "AV-NL-131",
+      "price": 96,
+      "image": "/atelier-vale/products/northloom-compact-crossbody-1.webp",
+      "hoverImage": "/atelier-vale/products/northloom-compact-crossbody-2.webp",
+      "images": [
+        "/atelier-vale/products/northloom-compact-crossbody-1.webp",
+        "/atelier-vale/products/northloom-compact-crossbody-2.webp",
+        "/atelier-vale/products/northloom-compact-crossbody-3.webp",
+        "/atelier-vale/products/northloom-compact-crossbody-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Oxblood",
+          "colorHex": "#6B1C2A",
+          "sizes": [
+            {
+              "size": "OS",
+              "qty": 10
+            }
+          ],
+          "image": "/atelier-vale/products/northloom-compact-crossbody-1.webp"
+        },
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "OS",
+              "qty": 10
+            }
+          ],
+          "image": "/atelier-vale/products/northloom-compact-crossbody-2.webp"
+        }
+      ],
+      "materials": [
+        "Leather"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 20,
+      "features": [
+        "Hidden magnet flap",
+        "Adjustable strap",
+        "Back slip for a transit card"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Chrome-free leather"
+        },
+        {
+          "label": "Fit",
+          "value": "Phone plus keys"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Wipe. Keep the magnet away from hotel keys."
+        },
+        {
+          "label": "Origin",
+          "value": "Made in Portugal"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-NL-131"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Faye Okonkwo",
+          "rating": 5,
+          "body": "Oxblood with the tiger tee. Magnet is strong enough.",
+          "date": "2026-05-12"
+        },
+        {
+          "author": "Liam Dunn",
+          "rating": 4,
+          "body": "Fits a large phone. Barely. That is the design.",
+          "date": "2026-06-03"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Will it hold a bottle of water?",
+          "answer": "No. That is the tote."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Size",
+          "value": "18 × 12 × 4 cm"
+        }
+      ],
+      "storyTitle": "Small on purpose",
+      "storyBody": "Northloom built this for people who refuse a backpack on a dinner walk. The strap does not twist."
+    },
+    {
+      "id": "p-24",
+      "slug": "dawncut-wool-scarf",
+      "name": "Dawncut Wool Scarf",
+      "description": "A plain-weave merino scarf with a short fringe. Light enough for a coat collar, warm enough for a ferry.",
+      "category": "accessories",
+      "brand": "Dawncut",
+      "sku": "AV-DC-140",
+      "price": 58,
+      "image": "/atelier-vale/products/dawncut-wool-scarf-1.webp",
+      "hoverImage": "/atelier-vale/products/dawncut-wool-scarf-2.webp",
+      "images": [
+        "/atelier-vale/products/dawncut-wool-scarf-1.webp",
+        "/atelier-vale/products/dawncut-wool-scarf-2.webp",
+        "/atelier-vale/products/dawncut-wool-scarf-3.webp",
+        "/atelier-vale/products/dawncut-wool-scarf-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Sage",
+          "colorHex": "#8A9A7B",
+          "sizes": [
+            {
+              "size": "OS",
+              "qty": 14
+            }
+          ],
+          "image": "/atelier-vale/products/dawncut-wool-scarf-1.webp"
+        },
+        {
+          "color": "Camel",
+          "colorHex": "#C19A6B",
+          "sizes": [
+            {
+              "size": "OS",
+              "qty": 14
+            }
+          ],
+          "image": "/atelier-vale/products/dawncut-wool-scarf-2.webp"
+        }
+      ],
+      "materials": [
+        "Fine wool"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 28,
+      "features": [
+        "Plain weave",
+        "Short fringe",
+        "Long enough to loop once"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Merino plain weave"
+        },
+        {
+          "label": "Fit",
+          "value": "180 × 30 cm"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Hand wash, dry flat"
+        },
+        {
+          "label": "Origin",
+          "value": "Woven in Ireland"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-DC-140"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Iris Patel",
+          "rating": 5,
+          "body": "Sage with the overcoat. No itch at the mouth.",
+          "date": "2026-01-09"
+        },
+        {
+          "author": "Cole Martin",
+          "rating": 4,
+          "body": "Camel sheds a little at first. Then it stops.",
+          "date": "2026-02-16"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Is it long enough to loop twice?",
+          "answer": "Once with a tail. Twice if you like it short."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Fit",
+          "value": "One size. See product notes for dimensions."
+        }
+      ],
+      "storyTitle": "A scarf that does not shout plaid",
+      "storyBody": "Dawncut kept the edges clean and the colour quiet. It is a layer, not a statement."
+    },
+    {
+      "id": "p-25",
+      "slug": "crispform-leather-belt",
+      "name": "Crispform Leather Belt",
+      "description": "A 30 mm leather belt with a brushed buckle and an unfinished edge that will darken. Cut extra, punch later.",
+      "category": "accessories",
+      "brand": "Crispform",
+      "sku": "AV-CF-141",
+      "price": 72,
+      "image": "/atelier-vale/products/crispform-leather-belt-1.webp",
+      "hoverImage": "/atelier-vale/products/crispform-leather-belt-2.webp",
+      "images": [
+        "/atelier-vale/products/crispform-leather-belt-1.webp",
+        "/atelier-vale/products/crispform-leather-belt-2.webp",
+        "/atelier-vale/products/crispform-leather-belt-3.webp",
+        "/atelier-vale/products/crispform-leather-belt-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "80",
+              "qty": 6
+            },
+            {
+              "size": "85",
+              "qty": 6
+            },
+            {
+              "size": "90",
+              "qty": 6
+            },
+            {
+              "size": "95",
+              "qty": 6
+            },
+            {
+              "size": "100",
+              "qty": 6
+            }
+          ],
+          "image": "/atelier-vale/products/crispform-leather-belt-1.webp"
+        },
+        {
+          "color": "Camel",
+          "colorHex": "#C19A6B",
+          "sizes": [
+            {
+              "size": "80",
+              "qty": 6
+            },
+            {
+              "size": "85",
+              "qty": 6
+            },
+            {
+              "size": "90",
+              "qty": 6
+            },
+            {
+              "size": "95",
+              "qty": 6
+            },
+            {
+              "size": "100",
+              "qty": 6
+            }
+          ],
+          "image": "/atelier-vale/products/crispform-leather-belt-2.webp"
+        }
+      ],
+      "materials": [
+        "Leather"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 60,
+      "features": [
+        "30 mm strap",
+        "Brushed buckle",
+        "Two extra holes"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Vegetable-tanned leather"
+        },
+        {
+          "label": "Fit",
+          "value": "Size is waist in cm"
+        },
+        {
+          "label": "Weight",
+          "value": "Solid"
+        },
+        {
+          "label": "Care",
+          "value": "Wipe. Condition the back."
+        },
+        {
+          "label": "Origin",
+          "value": "Made in Florence"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-CF-141"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Neil Capra",
+          "rating": 5,
+          "body": "90 is true for a 32 waist trouser. Edge is already ageing well.",
+          "date": "2026-03-14"
+        },
+        {
+          "author": "Hugo Berg",
+          "rating": 4,
+          "body": "Camel with sand trousers. Ink with everything else.",
+          "date": "2026-04-08"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Can I punch more holes?",
+          "answer": "Yes. There is leather past the last hole."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Size",
+          "value": "Order your waist in centimetres"
+        },
+        {
+          "label": "Width",
+          "value": "30 mm"
+        }
+      ],
+      "storyTitle": "A belt that matches the derby, not the trend",
+      "storyBody": "Crispform cut this from the same tannery as the bag workshop. The buckle is quiet on purpose."
+    },
+    {
+      "id": "p-26",
+      "slug": "oak-thread-rib-beanie",
+      "name": "Oak & Thread Rib Beanie",
+      "description": "A rib beanie that covers the ears without a costume slouch. Merino, double cuff, no logo patch.",
+      "category": "accessories",
+      "brand": "Oak & Thread",
+      "sku": "AV-OT-142",
+      "price": 48,
+      "image": "/atelier-vale/products/oak-thread-rib-beanie-1.webp",
+      "hoverImage": "/atelier-vale/products/oak-thread-rib-beanie-2.webp",
+      "images": [
+        "/atelier-vale/products/oak-thread-rib-beanie-1.webp",
+        "/atelier-vale/products/oak-thread-rib-beanie-2.webp",
+        "/atelier-vale/products/oak-thread-rib-beanie-3.webp",
+        "/atelier-vale/products/oak-thread-rib-beanie-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "OS",
+              "qty": 16
+            }
+          ],
+          "image": "/atelier-vale/products/oak-thread-rib-beanie-1.webp"
+        },
+        {
+          "color": "Forest",
+          "colorHex": "#2F4F3E",
+          "sizes": [
+            {
+              "size": "OS",
+              "qty": 16
+            }
+          ],
+          "image": "/atelier-vale/products/oak-thread-rib-beanie-2.webp"
+        }
+      ],
+      "materials": [
+        "Fine wool"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": true,
+      "stockQty": 32,
+      "features": [
+        "Double cuff",
+        "Covers the ears",
+        "No patch"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Merino rib"
+        },
+        {
+          "label": "Fit",
+          "value": "One size"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Hand wash, dry flat"
+        },
+        {
+          "label": "Origin",
+          "value": "Knitted in Scotland"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-OT-142"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Sasha Klein",
+          "rating": 5,
+          "body": "Does not itch. Stays put. That is a beanie.",
+          "date": "2026-01-07"
+        },
+        {
+          "author": "Ren Ito",
+          "rating": 4,
+          "body": "Forest with the mockneck. I look like a tree. Fine.",
+          "date": "2026-02-03"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Will it stretch out?",
+          "answer": "Rib recovers. Do not leave it on a chair arm for a week."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Fit",
+          "value": "One size. See product notes for dimensions."
+        }
+      ],
+      "storyTitle": "A hat that stays on a bike",
+      "storyBody": "Oak & Thread knit this dense so wind does not find a hole. The cuff is the only volume."
+    },
+    {
+      "id": "p-27",
+      "slug": "tidewear-track-pant",
+      "name": "Tidewear Track Pant",
+      "description": "A tapered track pant in loopback with a drawcord that actually holds. Side stripe is stitched, not printed.",
+      "category": "activewear",
+      "brand": "Tidewear",
+      "sku": "AV-TW-150",
+      "price": 88,
+      "image": "/atelier-vale/products/tidewear-track-pant-1.webp",
+      "hoverImage": "/atelier-vale/products/tidewear-track-pant-2.webp",
+      "images": [
+        "/atelier-vale/products/tidewear-track-pant-1.webp",
+        "/atelier-vale/products/tidewear-track-pant-2.webp",
+        "/atelier-vale/products/tidewear-track-pant-3.webp",
+        "/atelier-vale/products/tidewear-track-pant-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Ink",
+          "colorHex": "#1A1A1A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 0
+            },
+            {
+              "size": "S",
+              "qty": 0
+            },
+            {
+              "size": "M",
+              "qty": 0
+            },
+            {
+              "size": "L",
+              "qty": 0
+            },
+            {
+              "size": "XL",
+              "qty": 0
+            }
+          ],
+          "image": "/atelier-vale/products/tidewear-track-pant-1.webp"
+        },
+        {
+          "color": "Navy",
+          "colorHex": "#1C2A4A",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 0
+            },
+            {
+              "size": "S",
+              "qty": 0
+            },
+            {
+              "size": "M",
+              "qty": 0
+            },
+            {
+              "size": "L",
+              "qty": 0
+            },
+            {
+              "size": "XL",
+              "qty": 0
+            }
+          ],
+          "image": "/atelier-vale/products/tidewear-track-pant-2.webp"
+        }
+      ],
+      "materials": [
+        "Cotton",
+        "SoftBlend"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": false,
+      "stockQty": 0,
+      "features": [
+        "Tapered leg",
+        "Zipped back pocket",
+        "Drawcord that stays"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Loopback cotton with a little stretch"
+        },
+        {
+          "label": "Fit",
+          "value": "Tapered"
+        },
+        {
+          "label": "Weight",
+          "value": "Mid-weight"
+        },
+        {
+          "label": "Care",
+          "value": "Wash cold, hang dry"
+        },
+        {
+          "label": "Origin",
+          "value": "Sewn in Portugal"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-TW-150"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Kyle Ames",
+          "rating": 4,
+          "body": "Waiting on restock. The last pair lasted two years.",
+          "date": "2026-03-01"
+        },
+        {
+          "author": "Dana Ruiz",
+          "rating": 5,
+          "body": "Taper is right. Not skinny, not puddle.",
+          "date": "2025-11-12"
+        }
+      ],
+      "questions": [
+        {
+          "question": "When are they back?",
+          "answer": "Leave an email on the product. We cut them in batches."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "A track pant for the shop, not the gym ad",
+      "storyBody": "Tidewear cut this to sit with a derby or a court shoe. The stripe is a seam, not a brand."
+    },
+    {
+      "id": "p-28",
+      "slug": "northloom-studio-tank",
+      "name": "Northloom Studio Tank",
+      "description": "A bound-neck tank in compact jersey. Wide enough at the armhole to move, not so wide it becomes a vest.",
+      "category": "activewear",
+      "brand": "Northloom",
+      "sku": "AV-NL-151",
+      "price": 54,
+      "image": "/atelier-vale/products/northloom-studio-tank-1.webp",
+      "hoverImage": "/atelier-vale/products/northloom-studio-tank-2.webp",
+      "images": [
+        "/atelier-vale/products/northloom-studio-tank-1.webp",
+        "/atelier-vale/products/northloom-studio-tank-2.webp",
+        "/atelier-vale/products/northloom-studio-tank-3.webp",
+        "/atelier-vale/products/northloom-studio-tank-4.webp"
+      ],
+      "variants": [
+        {
+          "color": "Bone",
+          "colorHex": "#E8E0D4",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 0
+            },
+            {
+              "size": "S",
+              "qty": 0
+            },
+            {
+              "size": "M",
+              "qty": 0
+            },
+            {
+              "size": "L",
+              "qty": 0
+            },
+            {
+              "size": "XL",
+              "qty": 0
+            }
+          ],
+          "image": "/atelier-vale/products/northloom-studio-tank-1.webp"
+        },
+        {
+          "color": "Sage",
+          "colorHex": "#8A9A7B",
+          "sizes": [
+            {
+              "size": "XS",
+              "qty": 0
+            },
+            {
+              "size": "S",
+              "qty": 0
+            },
+            {
+              "size": "M",
+              "qty": 0
+            },
+            {
+              "size": "L",
+              "qty": 0
+            },
+            {
+              "size": "XL",
+              "qty": 0
+            }
+          ],
+          "image": "/atelier-vale/products/northloom-studio-tank-2.webp"
+        }
+      ],
+      "materials": [
+        "Cotton"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "featured": false,
+      "published": true,
+      "inStock": false,
+      "stockQty": 0,
+      "features": [
+        "Bound neck and armhole",
+        "Straight hem",
+        "Long enough to stay in a waistband"
+      ],
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "Compact cotton jersey"
+        },
+        {
+          "label": "Fit",
+          "value": "Regular"
+        },
+        {
+          "label": "Weight",
+          "value": "Light"
+        },
+        {
+          "label": "Care",
+          "value": "Wash cold"
+        },
+        {
+          "label": "Origin",
+          "value": "Knitted in Peru"
+        },
+        {
+          "label": "SKU",
+          "value": "AV-NL-151"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Jules Faro",
+          "rating": 4,
+          "body": "Bone under the camp shirt. Waiting for the restock.",
+          "date": "2026-04-19"
+        },
+        {
+          "author": "Sam Lee",
+          "rating": 5,
+          "body": "Armhole is the reason. Other tanks gape.",
+          "date": "2025-12-02"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Is it sheer?",
+          "answer": "Bone is a little. Sage is not."
+        }
+      ],
+      "sizeGuide": [
+        {
+          "label": "Chest",
+          "value": "XS 32\" · S 34\" · M 36\" · L 38\" · XL 40\""
+        },
+        {
+          "label": "Waist",
+          "value": "XS 25\" · S 27\" · M 29\" · L 31\" · XL 33\""
+        },
+        {
+          "label": "Length",
+          "value": "Measured from high shoulder to hem"
+        },
+        {
+          "label": "Fit",
+          "value": "True to size. Size up for ease."
+        }
+      ],
+      "storyTitle": "A tank with a seam that does not roll",
+      "storyBody": "Northloom bound every edge. It is a studio layer and a summer shirt, depending on the hour."
+    }
+  ]
+}
